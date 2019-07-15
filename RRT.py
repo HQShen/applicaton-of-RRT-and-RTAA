@@ -76,40 +76,7 @@ class RobotPlanner:
         
         return newrobotpos
     
-#    def plan(self,start,goal):
-#        newrobotpos = np.copy(s_in)
-#        n = 2000
-#        tt = tic()
-#        while True:
-#            x_rand = samplefree(self.mmap, self.goal)
-#            x_near = nearest(self.V,x_rand)
-#            x_new = steer(x_near,x_rand,self.res,self.boundary)
-#            if self.mmap(x_new) == 0:
-#                Xnear = near(self.V,x_new,1,self.res,self.boundary)# self.r
-#                self.V.append(x_new)
-#                c_min = self.cost[tuple(x_near)] + dist(x_near,x_new)
-#                for x in Xnear:
-#                    if collisionfree(x,x_new):
-#                        if self.cost[tuple(x)] + dist(x,x_new) < c_min:
-#                            x_min = x
-#                            c_min = self.cost[tuple(x)] + dist(x,x_new)
-#                self.cost[tuple(x_new)] = c_min
-#                self.E[x_new] = x_min
-#                for x in Xnear:
-#                    if collisionfree(x,x_new):
-#                        if self.cost(tuple(x_new)) + dist(x_new,x) < self.cost(tuple(x)):
-#                            self.E[x] = x_new
-#            if x_new = self.goal:
-#                self.path = [self.goal]
-#                tem = self.goal
-#                while tem in D.keys():
-#                    tem = self.E[tem]
-#                    self.path.append(tem)
-#                break
-#            if tic() - tt > 1.9:
-#                break
-#        newrobotpos = 
-#        return newrobotpos
+
     
     
     
