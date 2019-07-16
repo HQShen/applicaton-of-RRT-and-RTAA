@@ -115,14 +115,6 @@ class RobotPlanner:
             else:
                 tem = self.path[tem]
             
-#    def update_heu(self, heu, map_g, xj, path, s_in):
-#        tem = path[xj]
-#        fj = map_g[xj] + heu[xj]
-#        if tem in path.keys():
-#            heu[tem] = fj - map_g[tem]
-#            tem = path[tem]
-#        heu[tem] = fj - map_g[tem]
-#        return heu
             
             
 
