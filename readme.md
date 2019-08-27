@@ -23,4 +23,4 @@ There will be a 3D plot of the route and a plot of the nodes in our vetices set 
 
 util.py defined some functions which are used in our implementation.
 
-![image](results/RRT_cube.png)
+![image](results/RRT_cube.png) ![image](results/RTAA_cube.png)
