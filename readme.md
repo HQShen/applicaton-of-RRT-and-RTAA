@@ -29,3 +29,4 @@ util.py defined some functions which are used in our implementation.
     <img src="results/RRT_cube.png", width = '400'/>
     <img src="results/RTAA_cube.png", width = '400'/>
 </figure>
+<img src="results/RRT_cube.png" width="425"/> <img src="results/RRT_cube.png"width="425"/> 
