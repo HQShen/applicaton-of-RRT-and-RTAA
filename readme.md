@@ -26,5 +26,5 @@ util.py defined some functions which are used in our implementation.
 ![image](results/RRT_cube.png)![image](results/RTAA_cube.png)
 
 <center class="half">
-    <img src="results/RRT_cube.png"><img src="results/RTAA_cube.png">
+    <img src="results/RRT_cube.png", width = '300'><img src="results/RTAA_cube.png", width = '300'>
 </center>
