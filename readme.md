@@ -23,15 +23,13 @@ There will be a 3D plot of the route and a plot of the nodes in our vetices set 
 
 util.py defined some functions which are used in our implementation.
 
-|![image](results/RRT_cube.png)|![image](results/RTAA_cube.png)
 
-<figure class="half">
-    <img src="results/RRT_cube.png", width = '400'/>
-    <img src="results/RTAA_cube.png", width = '400'/>
-</figure>
+
+<p float="left">
+  <img src="results/RRT_cube.png" width="100" />
+  <img src="results/RRT_cube.png" width="100" /> 
+</p>
 
 ![alt-text-1](results/RRT_cube.png "title-1") ![alt-text-2](results/RRT_cube.png "title-2")
 
-| [![VideoBlocks]("results/RRT_cube.png")](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
-|:---:|:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
+
