@@ -23,13 +23,42 @@ There will be a 3D plot of the route and a plot of the nodes in our vetices set 
 
 util.py defined some functions which are used in our implementation.
 
-
-
+cube
 <p float="left">
-  <img src="results/RRT_cube.png" width="100" />
-  <img src="results/RRT_cube.png" width="100" /> 
+  <img src="results/RRT_cube.png" width="400" />
+  <img src="results/RRT_cube.png" width="400" /> 
 </p>
 
-![alt-text-1](results/RRT_cube.png "title-1") ![alt-text-2](results/RRT_cube.png "title-2")
+flappy
+<p float="left">
+  <img src="results/RRT_flappy.png" width="400" />
+  <img src="results/RRT_flappy.png" width="400" /> 
+</p>
+
+maze
+<p float="left">
+  <img src="results/RRT_maze.png" width="400" />
+  <img src="results/RRT_maze.png" width="400" /> 
+</p>
+
+room
+<p float="left">
+  <img src="results/RRT_room.png" width="400" />
+  <img src="results/RRT_room.png" width="400" /> 
+</p>
+
+tower
+<p float="left">
+  <img src="results/RRT_tower.png" width="400" />
+  <img src="results/RRT_tower.png" width="400" /> 
+</p>
+
+window
+<p float="left">
+  <img src="results/RRT_window.png" width="400" />
+  <img src="results/RRT_window.png" width="400" /> 
+</p>
+
+
 
 
