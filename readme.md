@@ -29,4 +29,5 @@ util.py defined some functions which are used in our implementation.
     <img src="results/RRT_cube.png", width = '400'/>
     <img src="results/RTAA_cube.png", width = '400'/>
 </figure>
-<img src="results/RRT_cube.png" width="425"/> <img src="results/RRT_cube.png"width="425"/> 
+
+![alt-text-1](image1.png "results/RRT_cube.png") ![alt-text-2](image2.png "results/RRT_cube.png")
