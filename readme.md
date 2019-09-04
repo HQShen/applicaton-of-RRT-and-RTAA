@@ -25,37 +25,37 @@ util.py defined some functions which are used in our implementation.
 
 cube
 <p float="left">
-  <img src="results/RRT_cube.png" width="400" />
+  <img src="results/RTAA_cube.png" width="400" />
   <img src="results/RRT_cube.png" width="400" /> 
 </p>
 
 flappy
 <p float="left">
-  <img src="results/RRT_flappy.png" width="400" />
+  <img src="results/RTAA_flappy.png" width="400" />
   <img src="results/RRT_flappy.png" width="400" /> 
 </p>
 
 maze
 <p float="left">
-  <img src="results/RRT_maze.png" width="400" />
+  <img src="results/RTAA_maze.png" width="400" />
   <img src="results/RRT_maze.png" width="400" /> 
 </p>
 
 room
 <p float="left">
-  <img src="results/RRT_room.png" width="400" />
+  <img src="results/RTAA_room.png" width="400" />
   <img src="results/RRT_room.png" width="400" /> 
 </p>
 
 tower
 <p float="left">
-  <img src="results/RRT_tower.png" width="400" />
+  <img src="results/RTAA_tower.png" width="400" />
   <img src="results/RRT_tower.png" width="400" /> 
 </p>
 
 window
 <p float="left">
-  <img src="results/RRT_window.png" width="400" />
+  <img src="results/RTAA_window.png" width="400" />
   <img src="results/RRT_window.png" width="400" /> 
 </p>
 
